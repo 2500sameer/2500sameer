@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sameer Shekh  
 **A passionate Full Stack .NET Developer from India 🇮🇳**
 
-Email Me 👉 ✉️ **your-email@example.com** for Collaboration, Projects, or Tech Discussions 😊
+Email Me 👉 ✉️ **2500sameer@gmail.com** for Collaboration, Projects, or Tech Discussions 😊
 
 - 🔭 **I’m currently working on:** ASP.NET Core MVC, Web API & React Projects  
 - 🌱 **I’m currently learning:** Full Stack .NET Development, React.js, Entity Framework Core, and SQL Server  
